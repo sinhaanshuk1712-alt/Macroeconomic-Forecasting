@@ -1,0 +1,6 @@
+streamlit
+wbgapi
+pandas
+numpy
+statsmodels
+plotly
